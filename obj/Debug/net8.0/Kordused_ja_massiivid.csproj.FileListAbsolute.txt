@@ -1,0 +1,14 @@
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\bin\Debug\net8.0\Kordused_ja_massiivid.exe
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\bin\Debug\net8.0\Kordused_ja_massiivid.deps.json
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\bin\Debug\net8.0\Kordused_ja_massiivid.runtimeconfig.json
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\bin\Debug\net8.0\Kordused_ja_massiivid.dll
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\bin\Debug\net8.0\Kordused_ja_massiivid.pdb
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\obj\Debug\net8.0\Kordused_ja_massiivid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\obj\Debug\net8.0\Kordused_ja_massiivid.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\obj\Debug\net8.0\Kordused_ja_massiivid.AssemblyInfo.cs
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\obj\Debug\net8.0\Kordused_ja_massiivid.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\obj\Debug\net8.0\Kordused_ja_massiivid.dll
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\obj\Debug\net8.0\refint\Kordused_ja_massiivid.dll
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\obj\Debug\net8.0\Kordused_ja_massiivid.pdb
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\obj\Debug\net8.0\Kordused_ja_massiivid.genruntimeconfig.cache
+C:\Users\Alex\Documents\Code\C#\Kordused_ja_massiivid\obj\Debug\net8.0\ref\Kordused_ja_massiivid.dll
